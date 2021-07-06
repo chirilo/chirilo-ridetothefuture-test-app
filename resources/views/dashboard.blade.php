@@ -45,6 +45,7 @@
     <script type="text/javascript">
         $(document).ready(function() {
             $('#questions_table').DataTable();
+            $('#answers_table').DataTable();
         } );
     </script>
 </body>
