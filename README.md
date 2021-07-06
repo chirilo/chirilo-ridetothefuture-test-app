@@ -17,6 +17,7 @@ Import the included sql file(laraveltestappv1.sql) into the newly created db.
 Navigation:
 To login:
 Go to http://127.0.0.1:8000/login
+Use : email: iamch1r1ru@gmail.com password: asd123
 
 
 To view and create questions:
